@@ -12,10 +12,11 @@ The only data that was not numeric was the Date feature, which was a Date/Time o
 ### Methods
 Tools:  
 - Numpy, Pandas, Matplotlib, and Seaborn for data exploration and visualization
-*Scikit-learn for prediction
-*Replit
-*Github for report collaboration and version control
-*Google Collab for code collaboration
+- Scikit-learn for prediction
+- Replit for initial code collaboration
+- Google Collab for code collaboration and visualization
+- Github for report collaboration and version control
+
 
 ### Results
 ### Discussion
