@@ -1,6 +1,6 @@
 # Team Name: CodeCrusaders
 ### Introduction
-We saw data about home prices based on certain factors, like delinquency rates, unemployment rates, GDP, building permits, and so on. As such, we are using a Python Notebook file to analyze the data and make predictions about these prices.
+We saw data about home prices based on certain factors, like delinquency rates, unemployment rates, GDP, building permits, and so on. As such, we are using a Python Notebook file to analyze the data and make predictions about them. Our hypothesis is that delinquency and unemployment rates are the strongest predictors in determining the prices of homes.
 
 ### Selection of Data
 We obtained the dataset [Factors influencing US House Prices](https://www.kaggle.com/datasets/jyotsnagurjar/factors-influencing-us-house-prices) from Kaggle. 
