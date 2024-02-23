@@ -3,7 +3,7 @@
 We saw data about home prices based on certain factors, like delinquency rates, unemployment rates, GDP, building permits, and so on. As such, we are using a Python Notebook file to analyze the data and make predictions about these prices.
 
 ### Selection of Data
-We obtained our dataset from Kaggle at https://www.kaggle.com/datasets/jyotsnagurjar/factors-influencing-us-house-prices. 
+We obtained the dataset [https://www.kaggle.com/datasets/jyotsnagurjar/factors-influencing-us-house-prices](Factors influencing US House Prices) from Kaggle. 
 
 The dataset consists of 16 numeric features affecting house prices in the United States. (should we list them all? ) The data was already cleaned and tidy.  It consists of 240 complete data points.  There are no missing or null values.  
 
