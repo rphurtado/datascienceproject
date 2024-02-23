@@ -10,8 +10,8 @@ The dataset consists of 16 numeric features affecting house prices in the United
 The only data that was not numeric was the Date feature, which was a Date/Time object.  We converted this to integer format to make it easier to use in visualizations and Machine Learning.   
 
 ### Methods
-Tools:
-*Numpy, Pandas, Matplotlib, and Seaborn for data exploration and visualization
+Tools:  
+- Numpy, Pandas, Matplotlib, and Seaborn for data exploration and visualization
 *Scikit-learn for prediction
 *Replit
 *Github for report collaboration and version control
