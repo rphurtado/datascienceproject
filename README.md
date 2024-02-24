@@ -20,15 +20,15 @@ The only data that was not numeric was the Date feature, which was a Date/Time o
 - Scikit-learn for prediction
 - Github for file hosting and version control
 - Google Collab for code collaboration
-- 
+  
 **Machine learning techniques for this project:**
 - Models:
  - Decision Tree,
  - KNeighborsRegressor
  - RandomForestRegressor
- *to analyze performance and use the most accurate to predict the home prices.*
+   *to analyze performance and use the most accurate to predict the home prices.*
  
--Features:
+- Features:
  - Polynomial Features: used the polynomial feature to display the non-linear connection between features and actual target home price values.
  - Root Mean Squared Error (RMSE): Calculated RMSE of all three models (Decision Tree, KNeighborsRegressor, RandomForestRegressor) to find out the performance and accuracy. 
  - Mean Absolute Error (MAE): Calculated MAE to find the total average difference between predicted home values and dataset home values.
