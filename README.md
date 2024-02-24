@@ -24,8 +24,8 @@ The only data that was not numeric was the Date feature, which was a Date/Time o
 **Machine learning techniques for this project:**
 - Models:
    - Decision Tree,
- - KNeighborsRegressor
- - RandomForestRegressor
+   - KNeighborsRegressor
+   - RandomForestRegressor
    *to analyze performance and use the most accurate to predict the home prices.*
  
 - Features:
