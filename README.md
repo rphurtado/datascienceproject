@@ -52,10 +52,10 @@ K-Nearest Neighbors (KNN)
 
 Decision Tree:
 
-
+![Decision_Tree_RMSE_Img](dt_rmse_img.png)
 
 Random Forest:
-
+![Random_Forest_RMSE_Img](rf_rmse_img.png)
 
 Discussion
 
@@ -64,4 +64,7 @@ As you can see Random Forest Regressor has the lowest RMSE, we executed further 
 Finally, the random forest model to effectively calculate predicted home prices. We printed the output in a proper format so it is easy to compare with actual home prices present in our dataset. 
 
 Here is the visual representation of predicted home prices vs actual home prices:
+![Predicted_vs_Actual_Img](predict_vs_actual_img.png)
 
+Summary
+In short, we collected the US Home Price dataset from Kaggle, reading thoroughly, ensuring the cleanliness and organization of the columns and rows. Showcasing the clean data at the beginning, creating helpful plots to learn more about the details of our data. We then implemented three regression models: KNN, random forest, and decision tree, analyzed their performance by calculating the Root Mean Squared Error. We moved forward with random forest to predict home prices. Lastly, we finally presented the result of predicted home prices and compared them with the actual home prices given in the dataset with the most efficient model. 
