@@ -29,16 +29,16 @@ The only data that was not numeric was the Date feature, which was a Date/Time o
    *to analyze performance and use the most accurate to predict the home prices.*
  
 - Features:
- - Polynomial Features: used the polynomial feature to display the non-linear connection between features and actual target home price values.
- - Root Mean Squared Error (RMSE): Calculated RMSE of all three models (Decision Tree, KNeighborsRegressor, RandomForestRegressor) to find out the performance and accuracy. 
- - Mean Absolute Error (MAE): Calculated MAE to find the total average difference between predicted home values and dataset home values.
- - Cross-validation: Calculated cross-validation to assess the performance of RandomForestRegressor model
- - Feature Importances: Calculator feature importances to investigate what features have more impact on target values.
+   - Polynomial Features: used the polynomial feature to display the non-linear connection between features and actual target home price values.
+   - Root Mean Squared Error (RMSE): Calculated RMSE of all three models (Decision Tree, KNeighborsRegressor, RandomForestRegressor) to find out the performance and accuracy. 
+   - Mean Absolute Error (MAE): Calculated MAE to find the total average difference between predicted home values and dataset home values.
+   - Cross-validation: Calculated cross-validation to assess the performance of RandomForestRegressor model
+   - Feature Importances: Calculator feature importances to investigate what features have more impact on target values.
 -Plotting:
- - Pair plot: Displayed pair plot to show how the features related specifically to the planned target variable
- - Correlation Matrix Heat map: Created correlation Matrix heat map to visualize which variables have the strongest relation
- - Bar plot: Created a bar plot specifically for the Decision Tree implementation tree to predict home prices. Plot showing the feature importances.
- - Scatter plot: Displayed a scatter plot to compare actual home prices with predicted home prices
+   - Pair plot: Displayed pair plot to show how the features related specifically to the planned target variable
+   - Correlation Matrix Heat map: Created correlation Matrix heat map to visualize which variables have the strongest relation
+   - Bar plot: Created a bar plot specifically for the Decision Tree implementation tree to predict home prices. Plot showing the feature importances.
+   - Scatter plot: Displayed a scatter plot to compare actual home prices with predicted home prices
 
 ## Results:
 Upon implementing KNN Regression, Random Forest and Decision tree algorithms, we found that the most efficient one would be Random Forest as it has the RMSE of 2.87. 
