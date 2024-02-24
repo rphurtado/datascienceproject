@@ -8,7 +8,7 @@
 The goal of this project is to predict home prices by using the randomForest regressor with target values like constant price index, GDP, housing subsidies, and so on. As such, we are using a Python Notebook file to analyze the data and make predictions about them. Our hypothesis is that delinquency and unemployment rates are the strongest predictors in determining the prices of homes.
 
 ## Selection of Data
-We obtained our dataset from Kaggle at Dataset Link.
+We obtained our dataset from Kaggle [here](https://www.kaggle.com/datasets/jyotsnagurjar/factors-influencing-us-house-prices).
 The dataset consists of 16 numeric features affecting house prices in the United States. (should we list them all?) The data was already cleaned and tidy. It consists of 240 complete samples. There are no missing or null values.  
 
 The only data that was not numeric was the Date feature, which was a Date/Time object.  We converted this to integer format to make it easier to use in visualizations and Machine Learning.    
