@@ -38,7 +38,7 @@ to analyze performance and use the most accurate to predict the home prices.
 - Bar plot: Created a bar plot specifically for the Decision Tree implementation tree to predict home prices. Plot showing the feature importances.
 - Scatter plot: Displayed a scatter plot to compare actual home prices with predicted home prices
 
-## Results
+## Results:
 Upon implementing KNN Regression, Random Forest and Decision tree algorithms, we found that the most efficient one would be Random Forest as it has the RMSE of 2.87. 
 
 Below are the results of RMSE calculations of all three:
@@ -57,7 +57,7 @@ Decision Tree:
 Random Forest:
 ![Random_Forest_RMSE_Img](rf_rmse_img.png)
 
-Discussion
+## Discussion:
 
 As you can see Random Forest Regressor has the lowest RMSE, we executed further evaluation by calculating MAE, Cross-validation, and Polynomial Features. It is most efficient to predict the home prices in our dataset. We evaluated each machine learning model before calculating home price prediction. The goal is to pick the best model and predict home prices.
 
@@ -66,5 +66,5 @@ Finally, the random forest model to effectively calculate predicted home prices.
 Here is the visual representation of predicted home prices vs actual home prices:
 ![Predicted_vs_Actual_Img](predict_vs_actual_img.png)
 
-Summary
+## Summary:
 In short, we collected the US Home Price dataset from Kaggle, reading thoroughly, ensuring the cleanliness and organization of the columns and rows. Showcasing the clean data at the beginning, creating helpful plots to learn more about the details of our data. We then implemented three regression models: KNN, random forest, and decision tree, analyzed their performance by calculating the Root Mean Squared Error. We moved forward with random forest to predict home prices. Lastly, we finally presented the result of predicted home prices and compared them with the actual home prices given in the dataset with the most efficient model. 
