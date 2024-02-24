@@ -10,7 +10,7 @@ The goal of this project is to predict home prices by using the randomForest reg
 ## Selection of Data
 We obtained our dataset from Kaggle [here](https://www.kaggle.com/datasets/jyotsnagurjar/factors-influencing-us-house-prices).  
 
-The dataset consists of 16 numeric features affecting house prices in the United States. (should we list them all?) The data was already cleaned and tidy. It consists of 240 complete samples. There are no missing or null values.  
+The dataset consists of 16 numeric features affecting house prices in the United States. The data was already cleaned and tidy. It consists of 240 complete samples. There are no missing or null values.  
 
 The only data that was not numeric was the Date feature, which was a Date/Time object.  We converted this to integer format to make it easier to use in visualizations and Machine Learning.    
 
