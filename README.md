@@ -70,3 +70,7 @@ Here is the visual representation of predicted home prices vs actual home prices
 
 ## Summary:
 In short, we collected the US Home Price dataset from Kaggle, reading thoroughly, ensuring the cleanliness and organization of the columns and rows. Showcasing the clean data at the beginning, creating helpful plots to learn more about the details of our data. We then implemented three regression models: KNN, random forest, and decision tree, analyzed their performance by calculating the Root Mean Squared Error. We moved forward with random forest to predict home prices. Lastly, we finally presented the result of predicted home prices and compared them with the actual home prices given in the dataset with the most efficient model. 
+
+## Presentation Video:
+
+[![Video Preview](vid_preview.JPG)](https://drive.google.com/file/d/1DihasZV3VY5F6-409ASkGFQIlAeepjZj/view)
